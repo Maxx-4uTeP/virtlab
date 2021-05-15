@@ -19,7 +19,7 @@
     storage/zle       24K   832M       24K  /storage/zle
     [root@server ~]#
 
-Применяем к каждо свой тип компрессии(в случае с gzip-N выбрал gzip-5):
+Применяем к каждой свой тип компрессии(в случае с gzip-N выбрал gzip-5):
 
     [root@server ~]# zfs set compression=lzjb /storage/lzjb
     cannot open '/storage/lzjb': leading slash in name
