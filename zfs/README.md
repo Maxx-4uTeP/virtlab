@@ -60,6 +60,7 @@
     storage/zle     compressratio  1.08x  -
 
 Закачал на каждую ФС образ установки FreeBSD.
+
 zfs get compressratio:
 
     storage/gzip    compressratio  2.83x  -
